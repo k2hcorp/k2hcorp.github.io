@@ -11,7 +11,7 @@ jekyll 포스팅 구조 확인하는 중.... 포트는 어떻고 반응형에서
 - jekyll 로 github 에 블로그 생성하기 포스팅
 - Check Readability
 - Search 적용
-- Add Facebook Feed Plugin
-- Add SEO plugin
+- ~~Add Facebook Feed Plugin~~
+- ~~Add SEO plugin~~
 
 할게 많구나
