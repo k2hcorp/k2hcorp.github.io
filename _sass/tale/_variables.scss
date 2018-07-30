@@ -14,7 +14,7 @@ $code-color: #bf616a;
 $serif-primary: 'Nanum Myeongjo', 'Times New Roman', Times, serif;
 $serif-secondary: 'Nanum Myeongjo', Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
 $sans-serif: 'Nanum Gothic Bold', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
-$monospaced: 'Nanum Myeongjo', Menlo, Monaco, monospace;
+$monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
