@@ -1,14 +1,13 @@
 # Site settings
-title:          Tale
+title:          Ryan Kim
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://k2hcorp.github.io"
 
 # Author
 author:
-  name:         Chester How
+  name:         Ryan Kim
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        k2hcorp@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -18,10 +17,14 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
