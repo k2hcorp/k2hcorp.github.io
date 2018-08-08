@@ -1,6 +1,6 @@
 # Site settings
 title:          Ryan Kim
-description:    "Minimal Jekyll theme for storytellers"
+description:    "My Sandbox"
 url:            "https://k2hcorp.github.io"
 
 # Author
@@ -27,6 +27,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   # - jemoji #Uncomment this to allow emoji in your post
+
+# Server Config
+livereload: true     # You no longer need to include --livereload
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
