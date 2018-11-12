@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "자바스크립트 실행 문맥"
-author: "김공장장"
+author: "김기환"
 ---
 
 ## 들어가며
