@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Machine Learning"
-author: "김공장장"
+author: "김기환"
 ---
 
 ## 들어가며
-지난 한달간 DSschool(https://dsschool.co.kr/)에서 머신러닝에 대해 배운 내용을 정리해본다.
+지난 한달간 [DSschool](https://dsschool.co.kr/)에서 머신러닝에 대해 배운 내용을 정리해본다.
 
 ## 세번의 시도
 이번 머신러닝 수강이외에도 두번 정도 머신러닝/딥러닝에 좋은 멘토를 만날 수 있는 기회가 있었다.
